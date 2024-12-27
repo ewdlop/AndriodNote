@@ -8,3 +8,5 @@ ANDRIOD PC
 Native code is not necessarily any faster than Java code. Where is your profile data showing that native code could run faster? 
 
 Is AOT not what i am thinking? 
+
+Complier optimization ...
