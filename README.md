@@ -35,3 +35,6 @@ Ahead-of-Time (AOT) compilation in .NET, such as with .NET Native or the .NET Co
 Yes, even with AOT compilation in .NET, the resulting executable typically includes some .NET runtime code to ensure that the application can execute correctly. The extent of runtime code included depends on the specific AOT technology and configuration used.
 
 If you have more specific questions or need help with a particular aspect of AOT in .NET, feel free to ask!
+
+
+objeciton compound
