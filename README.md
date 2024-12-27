@@ -10,3 +10,5 @@ Native code is not necessarily any faster than Java code. Where is your profile 
 Is AOT not what i am thinking? 
 
 Complier optimization ...
+
+(JVM is not full blown in native code)
