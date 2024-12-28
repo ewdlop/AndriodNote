@@ -2,6 +2,10 @@
 
 ANDRIOD PC 
 
+# Kotlin 
+
+Java's C#
+
 # Development
 
 
